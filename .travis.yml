@@ -3,7 +3,7 @@ rvm:
 - 2.1
 
 install: gem install bundler
-script: bundle install && rm -f ./_site && bundle exec jekyll build && bundle exec htmlproof ./_site
+script: bundle install && rm -f ./_site && bundle exec jekyll build && bundle exec htmlproofer ./_site
 
 env:
   global:
