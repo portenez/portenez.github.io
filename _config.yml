@@ -1,5 +1,5 @@
 
-# Site settings 
+# Site settings
 
 # NB! Set your site's url, otherwise stuff will break :)
 
@@ -139,7 +139,8 @@ social:
     url: "https://www.linkedin.com/in/vhgarciavalencia"
   - title: "youtube"
     url: https://www.youtube.com/channel/UCrDGC0ec_9m0yxOBVTu5NdQ
-
+  - title: "stack-overflow"
+    url: http://stackoverflow.com/story/vhgarcia
 ############
 # 404 page #
 ############
